@@ -1,0 +1,10 @@
+faiss-cpu==1.10.0
+numpy==2.2.3
+pymongo==4.11.1
+PyMuPDF==1.25.3
+pytesseract==0.3.13
+python-dotenv==1.0.1
+requests==2.32.3
+sentence-transformers==3.4.1
+streamlit==1.42.2
+transformers==4.49.0
